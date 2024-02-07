@@ -1,2 +1,3 @@
 # Data-Governance-for-TU-Research
-Keywords: Fraud Detection / Machine Learning / Deep Learning / eiei
+Keywords: Data Scraping / Regular Expression / Data Wrangling / ETL
+
