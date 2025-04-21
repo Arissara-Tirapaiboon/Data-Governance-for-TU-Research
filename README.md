@@ -1,3 +1,3 @@
 # Data-Governance-for-TU-Research
-Keywords: Data Scraping / Regular Expression / Data Wrangling / ETL
+Keywords: Automated Data Scraping / Data Governance / ETL 
 
